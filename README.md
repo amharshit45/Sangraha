@@ -17,7 +17,7 @@ This project is a modern book app built with HTML, CSS, and JavaScript. It aims 
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/amharshit45/Sangraha.git)
+   git clone https://github.com/amharshit45/Sangraha.git
    ```
 
 2. **Navigate to the project directory:**
